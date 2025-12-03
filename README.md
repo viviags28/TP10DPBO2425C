@@ -29,7 +29,7 @@ Tabel-tabel utama:
 ---
 
 ## Struktur Folder Proyek
-
+```
 jadwal_idol/
 │
 ├── config/
@@ -63,7 +63,7 @@ jadwal_idol/
 │   └── agensi_form.php             # Form tambah/edit agensi
 │
 └── index.php                       # Router utama aplikasi (entity & action)
-
+```
 
 ---
 
