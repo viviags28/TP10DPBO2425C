@@ -97,8 +97,6 @@ jadwal_idol/
 ---
 
 # Dokumentasi
-<<<<<<< HEAD
-=======
 
 ## Tampilan Awal Agensi
 
@@ -125,6 +123,3 @@ jadwal_idol/
 
 https://github.com/user-attachments/assets/7b4d66b7-b153-4e63-9f12-a784831eeed1
 
-
-
->>>>>>> 11580f9ac0a209166ade4016f9e0da3a2ee789cd
